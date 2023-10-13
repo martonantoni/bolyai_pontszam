@@ -12,5 +12,5 @@ Mellékelve van egy példa bemeneti file, example_input.txt néven.
 
 ## Kimenet
 
-Max score: hibátlan feladatsor ennyi pontot ér
-Score: ennyi pontot szerzett a csapat
+* Max score: hibátlan feladatsor ennyi pontot ér
+* Score: ennyi pontot szerzett a csapat
